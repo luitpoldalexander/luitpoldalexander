@@ -6,7 +6,7 @@ ___
 
 ### Check me out
 
-- [Corporate Github profile](https://github.com/luitpoldalexander)
+- [Personal Github profile](https://github.com/luitpoldalexander)
 - [LinkedIn](https://www.linkedin.com/in/luitpold/)
 - [Personal blog](https://lui.vn)
 - [Contact](https://luitpold.me)
