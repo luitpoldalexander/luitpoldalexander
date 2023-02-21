@@ -1,6 +1,6 @@
 # Xin chào, tôi là Luitpold-Alexander 👋🏽
 
-Senior Software Engineer at NFQ Asia.
+Senior Software Engineer at NFQ.
 
 ___
 
